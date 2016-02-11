@@ -1,0 +1,27 @@
+var json =[
+	
+	{
+		'dirección': 'av.osa mayor 50c',
+		'ciudad': 'madrid',
+		'C.P': '6'
+	},
+	{
+		'dirección': 'av.teresa mayor 50c',
+		'ciudad': 'Barcelona',
+		'C.P': '40'
+	},
+
+	{
+		'dirección': 'av.osa mayor 50c',
+		'ciudad': 'Sevilla',
+		'C.P': '98876'
+		}
+
+	
+	
+]
+
+
+
+var x= function(){return{'a':[10,14,33,50],'b':function(){return 30},'c':'23','d':'hello'}}
+
